@@ -21,6 +21,7 @@ public class ChatController
 		
 		//Passes the userName from above, into the Chatbot class.
 		brettlyBot = new Chatbot(userName);
+
 	}
 	
 	public void start()
